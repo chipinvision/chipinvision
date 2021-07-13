@@ -1,4 +1,4 @@
-### 🙏 ନମସ୍କାର | नमस्ते | Hola 🙏
+### ନମସ୍କାର | नमस्ते | Hola 
 
 <img src = "https://github-readme-stats.vercel.app/api?username=chipinvision&&show_icons+true&title=color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=303030">      
 
@@ -20,13 +20,19 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chipinvision&theme=dark)
 
 <p align="left">
+<p> Languages and FrameWorks Used By Me </p>
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png" alt="Dart" height="40" style="vertical-align:top; margin:4px">&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" alt="Flutter" height="40" style="vertical-align:top; margin:4px">&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git" height="40" style="vertical-align:top; margin:4px">&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" alt="Android" height="40" style="vertical-align:top; margin:4px">&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="java" height="40" style="vertical-align:top; margin:4px">&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/swift/swift.png" alt="swift" height="40" style="vertical-align:top; margin:4px">&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" alt="Linux" height="40" style="vertical-align:top; margin:4px">&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="iOS" height="40" style="vertical-align:top; margin:4px">&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python" height="40" style="vertical-align:top; margin:4px">&nbsp;&nbsp;
+</p>
+<p align="left">
+<p> Tools Used By Me</p>
+<img alt="visual studio code" width="26px" src="https://img.icons8.com/fluent/240/000000/visual-studio-code-2019.png" />
+<img alt="intellij idea" width="26px" src="https://img.icons8.com/color/240/000000/intellij-idea.png" />
+<img alt="terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png">
+<img alt="linux" width="26px" src="https://img.icons8.com/color/96/000000/linux.png">
 </p>

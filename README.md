@@ -2,11 +2,6 @@
 
 <img src = "https://github-readme-stats.vercel.app/api?username=chipinvision&&show_icons+true&title=color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=303030">      
 
-<img  src="https://github-readme-stats.vercel.app/api?username=chipinvision&show_icons=true&hide_border=true&theme=dracula">
-
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=chipinvision&theme=dark">
-
-
 ![](https://visitor-badge.laobi.icu/badge?page_id=chipinvision.chipinvision)
 
 [![Github](https://img.shields.io/github/followers/chipinvision?label=Follow&style=social)](https://github.com/chipinvision)

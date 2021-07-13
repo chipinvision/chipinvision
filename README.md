@@ -4,6 +4,8 @@
 
 <img  src="https://github-readme-stats.vercel.app/api?username=chipinvision&show_icons=true&hide_border=true&theme=dracula">
 
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=chipinvision&theme=dark">
+
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=chipinvision.chipinvision)
 

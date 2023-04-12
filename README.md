@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Suresh Mishra</h1>
-<h3 align="center">Passionate Developer and Cinematography Enthuasist</h3>
+<h3 align="center">Passionate Developer and Hustler</h3>
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=chipinvision.chipinvision)&nbsp;&nbsp;[![Github](https://img.shields.io/github/followers/chipinvision?label=Follow&style=social)](https://github.com/chipinvision)&nbsp;&nbsp;
 
@@ -7,8 +7,8 @@
 ## About Me
 
    - 😎 Self Taught Developer and UI Designer
-   - 🔭 I’m currently working at my Workstation
-   - 🌱 I’m currently learning Flutter
+   - 🔭 I’m currently working on my startup
+   - 🌱 I’m currently exploring Flutter Development 
    - 🤔 Contributing OpenSource
    - 💬 Ask me about Tech
    - 📫 How to reach me: 
